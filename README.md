@@ -102,19 +102,3 @@ I currently own a store specializing in FiveM scripts and systems.
 
 <br/>
 <br/>
-s
-<h3 align="left">GitHub Stats</h3>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-orpin-seven-83.vercel.app/api/top-langs/?username=onlygb1&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
-</p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onlygb1/onlygb1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onlygb1/onlygb1/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/onlygb1/onlygb1/output/github-contribution-grid-snake.svg">
-</picture>
