@@ -1,18 +1,12 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+
 
 #
 
-Meu nome é Gabriel, tenho 24 anos e sou natural de Brasília. Atualmente, curso Análise e Desenvolvimento de Sistemas, área pela qual tenho grande interesse e na qual venho buscando aprimorar continuamente meus conhecimentos.
+My name is Gabriel, I’m 24 years old and based in Brasília, Brazil. I’m currently pursuing a degree in Systems Analysis and Development.
 
-Possuo experiência no empreendedorismo e na gestão de projetos voltados ao universo de tecnologia e entretenimento digital. Fui responsável pela criação, administração e gestão de diversos servidores de grande porte na plataforma FiveM, atuando diretamente na estruturação das operações, gerenciamento de equipes, desenvolvimento de projetos e tomada de decisões estratégicas.
+I have experience in entrepreneurship and managing technology-focused projects. I’ve created and managed several large-scale FiveM servers, while also working directly on project development.
 
-Além da experiência à frente dos servidores, também fui proprietário de uma empresa especializada na gestão e administração dessas operações, adquirindo experiência em liderança, gestão de pessoas, organização de processos e resolução de problemas.
-
-Essa trajetória me proporcionou uma visão prática sobre tecnologia, gestão e empreendedorismo, além de desenvolver competências como liderança, responsabilidade, organização e capacidade de trabalhar com projetos de grande escala.
+I currently own a store specializing in FiveM scripts and systems.
  
 #
 
@@ -20,8 +14,7 @@ Essa trajetória me proporcionou uma visão prática sobre tecnologia, gestão e
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabrieltrindade.gt10@gmail.com)
 
 
 <h3 align="left">My Stack ~</h3>
@@ -32,15 +25,7 @@ Essa trajetória me proporcionou uma visão prática sobre tecnologia, gestão e
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
 />
 <img 
     align="left" 
@@ -50,25 +35,6 @@ Essa trajetória me proporcionou uma visão prática sobre tecnologia, gestão e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
 <img 
     align="left" 
     alt="Python" 
@@ -77,40 +43,78 @@ Essa trajetória me proporcionou uma visão prática sobre tecnologia, gestão e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
-<br/>
-<br/>
-
-<h3 align="left">GitHub Stats</h3>
-
-<p>
-  <img 
+<img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+    alt="Node" 
+    title="Node"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="postgresql" 
+    title="postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="mongodb" 
+    title="mongodb"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vue" 
+    title="Vue"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+
+<br/>
+<br/>
+s
+<h3 align="left">GitHub Stats</h3>
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-orpin-seven-83.vercel.app/api/top-langs/?username=onlygb1&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
-
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onlygb1/onlygb1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onlygb1/onlygb1/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/onlygb1/onlygb1/output/github-contribution-grid-snake.svg">
 </picture>
